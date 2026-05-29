@@ -30,7 +30,7 @@ import {
 } from 'lucide-react';
 import { Tribe, TribeConfig, IslandEvent } from './types';
 import { HAWAIIAN_TRIBES_MAP, FALLBACK_TRIBES } from './tribeData';
-const bannerImg = "/src/assets/images/hawaiian_sunset_banner_1780084132755.png";
+const bannerImg = "/assets/hawaiian_sunset_banner_1780084132755.png";
 import { islandAudio } from './utils/audio';
 
 const WITTY_DESCRIPTIONS: Record<string, string> = {

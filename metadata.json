@@ -1,0 +1,6 @@
+{
+  "name": "Hawaiian Tribe Leaderboard",
+  "description": "A real-time, animated Hawaiian-themed dashboard and leaderboard tracking points for legendary island tribes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
